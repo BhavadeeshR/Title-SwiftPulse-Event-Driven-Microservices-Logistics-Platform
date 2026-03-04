@@ -102,7 +102,6 @@ Thumbs.db
 uploads/
 logs/
 metrics/
-
 # Maven installation (local)
 apache-maven-3.9.6/
 
